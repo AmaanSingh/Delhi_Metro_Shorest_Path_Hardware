@@ -1,0 +1,545 @@
+Station,Connected Station,Distance
+Shaheed Sthal,Hindon River,1.0
+Hindon River,Shaheed Sthal,1.0
+Hindon River,Arthala,1.5
+Arthala,Hindon River,1.5
+Arthala,Mohan Nagar,0.7000000000000002
+Mohan Nagar,Arthala,0.7000000000000002
+Mohan Nagar,Shyam park,1.2999999999999998
+Shyam park,Mohan Nagar,1.2999999999999998
+Shyam park,Major Mohit Sharma,1.2000000000000002
+Major Mohit Sharma,Shyam park,1.2000000000000002
+Major Mohit Sharma,Raj Bagh,1.2000000000000002
+Raj Bagh,Major Mohit Sharma,1.2000000000000002
+Raj Bagh,Shaheed Nagar,1.299999999999999
+Shaheed Nagar,Raj Bagh,1.299999999999999
+Shaheed Nagar,Dilshad Garden,1.200000000000001
+Dilshad Garden,Shaheed Nagar,1.200000000000001
+Dilshad Garden,Jhil Mil,0.9000000000000004
+Jhil Mil,Dilshad Garden,0.9000000000000004
+Jhil Mil,Mansarovar Park,1.0999999999999996
+Mansarovar Park,Jhil Mil,1.0999999999999996
+Mansarovar Park,Shahdara,1.0999999999999996
+Shahdara,Mansarovar Park,1.0999999999999996
+Shahdara,Welcome,1.1999999999999993
+Welcome,Shahdara,1.1999999999999993
+Welcome,Seelampur,1.1000000000000014
+Welcome,East Azad Nagar,1.0999999999999943
+Welcome,Jaffrabad,1.2000000000000028
+Seelampur,Welcome,1.1000000000000014
+Seelampur,Shastri Park,1.5999999999999979
+Shastri Park,Seelampur,1.5999999999999979
+Shastri Park,Kashmere Gate,2.1000000000000014
+Kashmere Gate,Shastri Park,2.1000000000000014
+Kashmere Gate,Tis Hazari,1.1999999999999993
+Kashmere Gate,Civil Lines,1.0999999999999996
+Kashmere Gate,Chandni Chowk,1.1000000000000014
+Kashmere Gate,Lal Quila,1.5
+Tis Hazari,Kashmere Gate,1.1999999999999993
+Tis Hazari,Pul Bangash,0.9000000000000021
+Pul Bangash,Tis Hazari,0.9000000000000021
+Pul Bangash,Pratap Nagar,0.7999999999999972
+Pratap Nagar,Pul Bangash,0.7999999999999972
+Pratap Nagar,Shastri Nagar,1.7000000000000028
+Shastri Nagar,Pratap Nagar,1.7000000000000028
+Shastri Nagar,Inderlok,1.1999999999999993
+Inderlok,Shastri Nagar,1.1999999999999993
+Inderlok,Kanhaiya Nagar,1.1999999999999993
+Kanhaiya Nagar,Inderlok,1.1999999999999993
+Kanhaiya Nagar,Keshav Puram,0.6999999999999993
+Keshav Puram,Kanhaiya Nagar,0.6999999999999993
+Keshav Puram,Netaji Subash Place,1.1999999999999993
+Netaji Subash Place,Keshav Puram,1.1999999999999993
+Netaji Subash Place,Kohat Enclave,1.2000000000000028
+Netaji Subash Place,Shalimar Bagh,1.3999999999999995
+Netaji Subash Place,Shakurpur,1.2000000000000002
+Kohat Enclave,Netaji Subash Place,1.2000000000000028
+Kohat Enclave,Pitam Pura,1.0
+Pitam Pura,Kohat Enclave,1.0
+Pitam Pura,Rohini East,0.7999999999999972
+Rohini East,Pitam Pura,0.7999999999999972
+Rohini East,Rohini West,1.3000000000000007
+Rohini West,Rohini East,1.3000000000000007
+Rohini West,Rithala(last station),1.0000000000000036
+Rithala(last station),Rohini West,1.0000000000000036
+Samaypur Badli(First Station),Rohini Sector 18-19,0.8
+Rohini Sector 18-19,Samaypur Badli(First Station),0.8
+Rohini Sector 18-19,Haiderpur Badli Mor,1.3
+Haiderpur Badli Mor,Rohini Sector 18-19,1.3
+Haiderpur Badli Mor,Jahangirpuri,1.2999999999999998
+Jahangirpuri,Haiderpur Badli Mor,1.2999999999999998
+Jahangirpuri,Adarsh Nagar,1.3000000000000003
+Adarsh Nagar,Jahangirpuri,1.3000000000000003
+Adarsh Nagar,Azadpur,1.5
+Azadpur,Adarsh Nagar,1.5
+Azadpur,Model Town,1.3999999999999995
+Azadpur,Majlis Park,2.1
+Azadpur,Shalimar Bagh,1.6
+Model Town,Azadpur,1.3999999999999995
+Model Town,Guru Tegh Bahadur Nagar,1.4000000000000004
+Guru Tegh Bahadur Nagar,Model Town,1.4000000000000004
+Guru Tegh Bahadur Nagar,Vishwavidyalaya,0.8000000000000007
+Vishwavidyalaya,Guru Tegh Bahadur Nagar,0.8000000000000007
+Vishwavidyalaya,Vidhan Sabha,1.0
+Vidhan Sabha,Vishwavidyalaya,1.0
+Vidhan Sabha,Civil Lines,1.299999999999999
+Civil Lines,Vidhan Sabha,1.299999999999999
+Civil Lines,Kashmere Gate,1.0999999999999996
+Chandni Chowk,Kashmere Gate,1.1000000000000014
+Chandni Chowk,Chawri Bazar,1.0
+Chawri Bazar,Chandni Chowk,1.0
+Chawri Bazar,New Delhi,0.8000000000000007
+New Delhi,Chawri Bazar,0.8000000000000007
+New Delhi,Rajiv Chowk,1.0999999999999979
+Rajiv Chowk,New Delhi,1.0999999999999979
+Rajiv Chowk,Patel Chowk,1.3000000000000007
+Rajiv Chowk,R K Ashram Marg,1.2000000000000028
+Rajiv Chowk,Barakhamba,0.6999999999999993
+Patel Chowk,Rajiv Chowk,1.3000000000000007
+Patel Chowk,Central Secretariat,0.8999999999999986
+Central Secretariat,Patel Chowk,0.8999999999999986
+Central Secretariat,Udyog Bhawan,0.3000000000000007
+Central Secretariat,Janpath,1.2999999999999998
+Central Secretariat,Khan Market,2.0999999999999996
+Udyog Bhawan,Central Secretariat,0.3000000000000007
+Udyog Bhawan,Lok Kalyan Marg,1.6000000000000014
+Lok Kalyan Marg,Udyog Bhawan,1.6000000000000014
+Lok Kalyan Marg,Jor Bagh,1.1999999999999993
+Jor Bagh,Lok Kalyan Marg,1.1999999999999993
+Jor Bagh,Dilli Haat INA,1.3000000000000007
+Dilli Haat INA,Jor Bagh,1.3000000000000007
+Dilli Haat INA,AIIMS,0.8000000000000007
+Dilli Haat INA,Sarojini Nagar,1.0999999999999979
+Dilli Haat INA,South Extension,1.2000000000000028
+AIIMS,Dilli Haat INA,0.8000000000000007
+AIIMS,Green Park,1.0
+Green Park,AIIMS,1.0
+Green Park,Hauz Khas,1.7999999999999972
+Hauz Khas,Green Park,1.7999999999999972
+Hauz Khas,Malviya Nagar,1.7000000000000028
+Hauz Khas,IIT Delhi,1.1999999999999993
+Hauz Khas,Panchsheel Park,1.5
+Malviya Nagar,Hauz Khas,1.7000000000000028
+Malviya Nagar,Saket,0.8999999999999986
+Saket,Malviya Nagar,0.8999999999999986
+Saket,Qutab Minar,1.6999999999999993
+Qutab Minar,Saket,1.6999999999999993
+Qutab Minar,Chhattarpur,1.3000000000000007
+Chhattarpur,Qutab Minar,1.3000000000000007
+Chhattarpur,Sultanpur,1.6000000000000014
+Sultanpur,Chhattarpur,1.6000000000000014
+Sultanpur,Ghitorni,1.2999999999999972
+Ghitorni,Sultanpur,1.2999999999999972
+Ghitorni,Arjan Garh,2.700000000000003
+Arjan Garh,Ghitorni,2.700000000000003
+Arjan Garh,Guru Dronacharya,2.299999999999997
+Guru Dronacharya,Arjan Garh,2.299999999999997
+Guru Dronacharya,Sikandarpur,1.0
+Sikandarpur,Guru Dronacharya,1.0
+Sikandarpur,MG Road,1.2000000000000028
+Sikandarpur,DLF Phase 1,1.0999999999999996
+Sikandarpur,DLF Phase 2,0.7000000000000002
+MG Road,Sikandarpur,1.2000000000000028
+MG Road,IFFCO Chowk,1.1000000000000014
+IFFCO Chowk,MG Road,1.1000000000000014
+IFFCO Chowk,Huda City Centre,1.5
+Huda City Centre,IFFCO Chowk,1.5
+Dwarka Sector 21,Dwarka Sector 8,1.7
+Dwarka Sector 21,IGI Airport,2.900000000000002
+Dwarka Sector 8,Dwarka Sector 21,1.7
+Dwarka Sector 8,Dwarka Sector 9,1.0000000000000002
+Dwarka Sector 9,Dwarka Sector 8,1.0000000000000002
+Dwarka Sector 9,Dwarka Sector 10,1.0999999999999996
+Dwarka Sector 10,Dwarka Sector 9,1.0999999999999996
+Dwarka Sector 10,Dwarka Sector 11,1.0
+Dwarka Sector 11,Dwarka Sector 10,1.0
+Dwarka Sector 11,Dwarka Sector 12,1.0
+Dwarka Sector 12,Dwarka Sector 11,1.0
+Dwarka Sector 12,Dwarka Sector 13,0.9000000000000004
+Dwarka Sector 13,Dwarka Sector 12,0.9000000000000004
+Dwarka Sector 13,Dwarka Sector 14,0.8999999999999995
+Dwarka Sector 14,Dwarka Sector 13,0.8999999999999995
+Dwarka Sector 14,Dwarka,1.5
+Dwarka,Dwarka Sector 14,1.5
+Dwarka,Dwarka Mor,1.0999999999999996
+Dwarka,Nangli,1.5
+Dwarka Mor,Dwarka,1.0999999999999996
+Dwarka Mor,Nawada,1.200000000000001
+Nawada,Dwarka Mor,1.200000000000001
+Nawada,Uttam Nagar West,1.0
+Uttam Nagar West,Nawada,1.0
+Uttam Nagar West,Uttam Nagar East,1.0
+Uttam Nagar East,Uttam Nagar West,1.0
+Uttam Nagar East,Janak Puri West,1.299999999999999
+Janak Puri West,Uttam Nagar East,1.299999999999999
+Janak Puri West,Janak Puri East,1.0
+Janak Puri West,Dabri Mor - Janakpuri South,2.0
+Janak Puri East,Janak Puri West,1.0
+Janak Puri East,Tilak Nagar,1.0
+Tilak Nagar,Janak Puri East,1.0
+Tilak Nagar,Subhash Nagar,0.9000000000000021
+Subhash Nagar,Tilak Nagar,0.9000000000000021
+Subhash Nagar,Tagore Garden,0.8999999999999986
+Tagore Garden,Subhash Nagar,0.8999999999999986
+Tagore Garden,Rajouri Garden,1.1000000000000014
+Rajouri Garden,Tagore Garden,1.1000000000000014
+Rajouri Garden,Ramesh Nagar,1.0
+Rajouri Garden,ESI BASAI DARAPUR,1.1000000000000014
+Rajouri Garden,Maya Puri,1.5
+Ramesh Nagar,Rajouri Garden,1.0
+Ramesh Nagar,Moti Nagar,1.1999999999999993
+Moti Nagar,Ramesh Nagar,1.1999999999999993
+Moti Nagar,Kirti Nagar,1.0
+Kirti Nagar,Moti Nagar,1.0
+Kirti Nagar,Shadipur,0.6999999999999993
+Kirti Nagar,Satguru Ram Singh Marg,1.0
+Shadipur,Kirti Nagar,0.6999999999999993
+Shadipur,Patel Nagar,1.3000000000000007
+Patel Nagar,Shadipur,1.3000000000000007
+Patel Nagar,Rajendra Place,0.8999999999999986
+Rajendra Place,Patel Nagar,0.8999999999999986
+Rajendra Place,Karol Bagh,1.0
+Karol Bagh,Rajendra Place,1.0
+Karol Bagh,Jhandewalan,1.1999999999999993
+Jhandewalan,Karol Bagh,1.1999999999999993
+Jhandewalan,R K Ashram Marg,1.0
+R K Ashram Marg,Jhandewalan,1.0
+R K Ashram Marg,Rajiv Chowk,1.2000000000000028
+Barakhamba,Rajiv Chowk,0.6999999999999993
+Barakhamba,Mandi House,1.0
+Mandi House,Barakhamba,1.0
+Mandi House,Supreme Court,0.8000000000000007
+Mandi House,ITO,0.7999999999999998
+Mandi House,Janpath,1.4000000000000004
+Supreme Court,Mandi House,0.8000000000000007
+Supreme Court,Indraprastha,0.7999999999999972
+Indraprastha,Supreme Court,0.7999999999999972
+Indraprastha,Yamuna Bank,1.8000000000000043
+Yamuna Bank,Indraprastha,1.8000000000000043
+Yamuna Bank,Akshardham,1.2999999999999972
+Yamuna Bank,Laxmi Nagar,1.3
+Akshardham,Yamuna Bank,1.2999999999999972
+Akshardham,Mayur Vihar Phase-1,1.7999999999999972
+Mayur Vihar Phase-1,Akshardham,1.7999999999999972
+Mayur Vihar Phase-1,Mayur Vihar Extention,1.2000000000000028
+Mayur Vihar Phase-1,Sarai Kale Khan Hazrat Nizamuddin,3.5999999999999943
+Mayur Vihar Phase-1,Mayur Vihar Pocket I,0.8000000000000043
+Mayur Vihar Extention,Mayur Vihar Phase-1,1.2000000000000028
+Mayur Vihar Extention,New Ashok Nagar,0.8999999999999986
+New Ashok Nagar,Mayur Vihar Extention,0.8999999999999986
+New Ashok Nagar,Noida Sector 15,1.0
+Noida Sector 15,New Ashok Nagar,1.0
+Noida Sector 15,Noida Sector 16,1.1000000000000014
+Noida Sector 16,Noida Sector 15,1.1000000000000014
+Noida Sector 16,Noida Sector 18,1.1000000000000014
+Noida Sector 18,Noida Sector 16,1.1000000000000014
+Noida Sector 18,Botanical Garden,1.1000000000000014
+Botanical Garden,Noida Sector 18,1.1000000000000014
+Botanical Garden,Golf Course,1.1999999999999957
+Botanical Garden,Okhla Bird Sanctuary,1.7000000000000028
+Golf Course,Botanical Garden,1.1999999999999957
+Golf Course,Noida City Center,1.3000000000000043
+Noida City Center,Golf Course,1.3000000000000043
+Noida City Center,Noida Sector 34,0.8999999999999986
+Noida Sector 34,Noida City Center,0.8999999999999986
+Noida Sector 34,Noida Sector 52,1.1999999999999957
+Noida Sector 52,Noida Sector 34,1.1999999999999957
+Noida Sector 52,Noida Sector 61,1.2000000000000028
+Noida Sector 61,Noida Sector 52,1.2000000000000028
+Noida Sector 61,Noida Sector 59,1.0
+Noida Sector 59,Noida Sector 61,1.0
+Noida Sector 59,Noida Sector 62,1.2000000000000028
+Noida Sector 62,Noida Sector 59,1.2000000000000028
+Laxmi Nagar,Yamuna Bank,1.3
+Laxmi Nagar,Nirman Vihar,1.0999999999999999
+Nirman Vihar,Laxmi Nagar,1.0999999999999999
+Nirman Vihar,Preet Vihar,1.0
+Preet Vihar,Nirman Vihar,1.0
+Preet Vihar,Karkar Duma,1.1999999999999997
+Karkar Duma,Preet Vihar,1.1999999999999997
+Karkar Duma,Anand Vihar,1.1000000000000005
+Karkar Duma,Anand Vihar,1.0
+Karkar Duma,Karkarduma Court,1.1000000000000014
+Anand Vihar,Karkar Duma,1.1000000000000005
+Anand Vihar,Kaushambi,0.7999999999999998
+Anand Vihar,IP Extension,1.6000000000000014
+Anand Vihar,Karkar Duma,1.0
+Kaushambi,Anand Vihar,0.7999999999999998
+Kaushambi,Vaishali,1.5999999999999996
+Vaishali,Kaushambi,1.5999999999999996
+Ashok Park Main,Satguru Ram Singh Marg,1.1
+Ashok Park Main,Inderlok Conn:Red,1.4
+Ashok Park Main,Punjabi Bagh,0.8999999999999999
+Satguru Ram Singh Marg,Ashok Park Main,1.1
+Satguru Ram Singh Marg,Kirti Nagar,1.0
+Inderlok Conn:Red,Ashok Park Main,1.4
+Punjabi Bagh,Ashok Park Main,0.8999999999999999
+Punjabi Bagh,Shivaji Park,1.6
+Shivaji Park,Punjabi Bagh,1.6
+Shivaji Park,Madipur,1.1
+Madipur,Shivaji Park,1.1
+Madipur,Paschim Vihar (East),0.7000000000000002
+Paschim Vihar (East),Madipur,0.7000000000000002
+Paschim Vihar (East),Paschim Vihar (West),1.0
+Paschim Vihar (West),Paschim Vihar (East),1.0
+Paschim Vihar (West),Peera Garhi,0.8999999999999995
+Peera Garhi,Paschim Vihar (West),0.8999999999999995
+Peera Garhi,Udyog Nagar,1.200000000000001
+Udyog Nagar,Peera Garhi,1.200000000000001
+Udyog Nagar,Maharaja Surajmal Stadium,0.6999999999999993
+Maharaja Surajmal Stadium,Udyog Nagar,0.6999999999999993
+Maharaja Surajmal Stadium,Nangloi,0.8000000000000007
+Nangloi,Maharaja Surajmal Stadium,0.8000000000000007
+Nangloi,Nangloi Railway Station,0.8999999999999986
+Nangloi Railway Station,Nangloi,0.8999999999999986
+Nangloi Railway Station,Rajdhani Park,1.200000000000001
+Rajdhani Park,Nangloi Railway Station,1.200000000000001
+Rajdhani Park,Mundka,1.299999999999999
+Mundka,Rajdhani Park,1.299999999999999
+Mundka,Mundka Industrial Area (MIA),1.3000000000000007
+Mundka Industrial Area (MIA),Mundka,1.3000000000000007
+Mundka Industrial Area (MIA),Ghevra Metro station,2.1000000000000014
+Ghevra Metro station,Mundka Industrial Area (MIA),2.1000000000000014
+Ghevra Metro station,Tikri Kalan,1.7999999999999972
+Tikri Kalan,Ghevra Metro station,1.7999999999999972
+Tikri Kalan,Tikri Border,1.3000000000000007
+Tikri Border,Tikri Kalan,1.3000000000000007
+Tikri Border,Pandit Shree Ram Sharma,1.3000000000000007
+Pandit Shree Ram Sharma,Tikri Border,1.3000000000000007
+Pandit Shree Ram Sharma,Bahdurgarh City,1.5
+Bahdurgarh City,Pandit Shree Ram Sharma,1.5
+Bahdurgarh City,Brigadier Hoshiar Singh,1.8000000000000007
+Brigadier Hoshiar Singh,Bahdurgarh City,1.8000000000000007
+Sector 55-66,Sector 54 Chowk ,1.1
+Sector 54 Chowk ,Sector 55-66,1.1
+Sector 54 Chowk ,Sector 53-54,1.5
+Sector 53-54,Sector 54 Chowk ,1.5
+Sector 53-54,Sector 42-43,1.2999999999999998
+Sector 42-43,Sector 53-54,1.2999999999999998
+Sector 42-43,DLF Phase 1,1.6
+DLF Phase 1,Sector 42-43,1.6
+DLF Phase 1,Sikandarpur,1.0999999999999996
+DLF Phase 2,Sikandarpur,0.7000000000000002
+DLF Phase 2,Belvedere Towers,0.7000000000000002
+Belvedere Towers,DLF Phase 2,0.7000000000000002
+Belvedere Towers,Cyber City,0.5999999999999996
+Cyber City,Belvedere Towers,0.5999999999999996
+Cyber City,Moulsari Avenue,0.5999999999999996
+Moulsari Avenue,Cyber City,0.5999999999999996
+Moulsari Avenue,DLF Phase 3,0.8000000000000007
+DLF Phase 3,Moulsari Avenue,0.8000000000000007
+Lal Quila,Kashmere Gate,1.5
+Lal Quila,Jama Masjid,0.7999999999999998
+Jama Masjid,Lal Quila,0.7999999999999998
+Jama Masjid,Delhi Gate,1.4000000000000004
+Delhi Gate,Jama Masjid,1.4000000000000004
+Delhi Gate,ITO,1.2999999999999998
+ITO,Delhi Gate,1.2999999999999998
+ITO,Mandi House,0.7999999999999998
+Janpath,Mandi House,1.4000000000000004
+Janpath,Central Secretariat,1.2999999999999998
+Khan Market,Central Secretariat,2.0999999999999996
+Khan Market,Jawaharlal Nehru Stadium,1.4000000000000004
+Jawaharlal Nehru Stadium,Khan Market,1.4000000000000004
+Jawaharlal Nehru Stadium,Jangpura,0.9000000000000004
+Jangpura,Jawaharlal Nehru Stadium,0.9000000000000004
+Jangpura,Lajpat Nagar,1.5
+Lajpat Nagar,Jangpura,1.5
+Lajpat Nagar,Moolchand,0.6999999999999993
+Lajpat Nagar,South Extension,1.5999999999999979
+Lajpat Nagar,Vinobapuri,1.4000000000000021
+Moolchand,Lajpat Nagar,0.6999999999999993
+Moolchand,Kailash Colony,1.299999999999999
+Kailash Colony,Moolchand,1.299999999999999
+Kailash Colony,Nehru Place,1.0
+Nehru Place,Kailash Colony,1.0
+Nehru Place,Kalkaji Mandir,0.8000000000000007
+Kalkaji Mandir,Nehru Place,0.8000000000000007
+Kalkaji Mandir,Govind Puri,0.6999999999999993
+Kalkaji Mandir,Nehru Enclave,0.8999999999999986
+Kalkaji Mandir,Okhla NSIC,0.8000000000000007
+Govind Puri,Kalkaji Mandir,0.6999999999999993
+Govind Puri,Okhla,1.1000000000000014
+Okhla,Govind Puri,1.1000000000000014
+Okhla,Jasola,0.8999999999999986
+Jasola,Okhla,0.8999999999999986
+Jasola,Sarita Vihar,1.2000000000000028
+Sarita Vihar,Jasola,1.2000000000000028
+Sarita Vihar,Mohan Estate,1.1999999999999993
+Mohan Estate,Sarita Vihar,1.1999999999999993
+Mohan Estate,Tughlakabad,1.8999999999999986
+Tughlakabad,Mohan Estate,1.8999999999999986
+Tughlakabad,Badarpur Border,1.1000000000000014
+Badarpur Border,Tughlakabad,1.1000000000000014
+Badarpur Border,Sarai,2.5
+Sarai,Badarpur Border,2.5
+Sarai,N.H.P.C. Chowk,1.5999999999999979
+N.H.P.C. Chowk,Sarai,1.5999999999999979
+N.H.P.C. Chowk,Mewala Maharajpur,0.9000000000000021
+Mewala Maharajpur,N.H.P.C. Chowk,0.9000000000000021
+Mewala Maharajpur,Sector 28 Faridabad,1.1999999999999993
+Sector 28 Faridabad,Mewala Maharajpur,1.1999999999999993
+Sector 28 Faridabad,Badkal Mor,1.7000000000000028
+Badkal Mor,Sector 28 Faridabad,1.7000000000000028
+Badkal Mor,Old Faridabad,1.1999999999999957
+Old Faridabad,Badkal Mor,1.1999999999999957
+Old Faridabad,Neelam Chowk Ajronda,1.6000000000000014
+Neelam Chowk Ajronda,Old Faridabad,1.6000000000000014
+Neelam Chowk Ajronda,Bata Chowk,1.2999999999999972
+Bata Chowk,Neelam Chowk Ajronda,1.2999999999999972
+Bata Chowk,Escorts Mujesar,1.8000000000000043
+Escorts Mujesar,Bata Chowk,1.8000000000000043
+Escorts Mujesar,Sant Surdas - Sihi,1.6999999999999957
+Sant Surdas - Sihi,Escorts Mujesar,1.6999999999999957
+Sant Surdas - Sihi,Raja Nahar Singh,1.7000000000000028
+Raja Nahar Singh,Sant Surdas - Sihi,1.7000000000000028
+Dabri Mor - Janakpuri South,Janak Puri West,2.0
+Dabri Mor - Janakpuri South,Dashrath Puri,1.1
+Dashrath Puri,Dabri Mor - Janakpuri South,1.1
+Dashrath Puri,Palam,1.4999999999999996
+Palam,Dashrath Puri,1.4999999999999996
+Palam,Sadar Bazaar Cantonment,2.6000000000000005
+Sadar Bazaar Cantonment,Palam,2.6000000000000005
+Sadar Bazaar Cantonment,Terminal 1 IGI Airport,1.7000000000000002
+Terminal 1 IGI Airport,Sadar Bazaar Cantonment,1.7000000000000002
+Terminal 1 IGI Airport,Shankar Vihar,1.799999999999999
+Shankar Vihar,Terminal 1 IGI Airport,1.799999999999999
+Shankar Vihar,Vasant Vihar,2.1000000000000014
+Vasant Vihar,Shankar Vihar,2.1000000000000014
+Vasant Vihar,Munirka,1.1999999999999993
+Munirka,Vasant Vihar,1.1999999999999993
+Munirka,RK Puram,1.4000000000000004
+RK Puram,Munirka,1.4000000000000004
+RK Puram,IIT Delhi,0.9000000000000004
+IIT Delhi,RK Puram,0.9000000000000004
+IIT Delhi,Hauz Khas,1.1999999999999993
+Panchsheel Park,Hauz Khas,1.5
+Panchsheel Park,Chirag Delhi,0.8999999999999986
+Chirag Delhi,Panchsheel Park,0.8999999999999986
+Chirag Delhi,Greater Kailash,0.9000000000000021
+Greater Kailash,Chirag Delhi,0.9000000000000021
+Greater Kailash,Nehru Enclave,1.3000000000000007
+Nehru Enclave,Greater Kailash,1.3000000000000007
+Nehru Enclave,Kalkaji Mandir,0.8999999999999986
+Okhla NSIC,Kalkaji Mandir,0.8000000000000007
+Okhla NSIC,Sukhdev Vihar,1.0999999999999979
+Sukhdev Vihar,Okhla NSIC,1.0999999999999979
+Sukhdev Vihar,JAMIA MILLIA ISLAMIA,1.2000000000000028
+JAMIA MILLIA ISLAMIA,Sukhdev Vihar,1.2000000000000028
+JAMIA MILLIA ISLAMIA,Okhla Vihar,0.5
+Okhla Vihar,JAMIA MILLIA ISLAMIA,0.5
+Okhla Vihar,Jasola Vihar Shaheen Bagh,1.7999999999999972
+Jasola Vihar Shaheen Bagh,Okhla Vihar,1.7999999999999972
+Jasola Vihar Shaheen Bagh,Kalindi Kunj,1.4000000000000021
+Kalindi Kunj,Jasola Vihar Shaheen Bagh,1.4000000000000021
+Kalindi Kunj,Okhla Bird Sanctuary,1.5999999999999979
+Okhla Bird Sanctuary,Kalindi Kunj,1.5999999999999979
+Okhla Bird Sanctuary,Botanical Garden,1.7000000000000028
+Majlis Park,Azadpur,2.1
+Shalimar Bagh,Azadpur,1.6
+Shalimar Bagh,Netaji Subash Place,1.3999999999999995
+Shakurpur,Netaji Subash Place,1.2000000000000002
+Shakurpur,Punjabi Bagh West,1.4000000000000004
+Punjabi Bagh West,Shakurpur,1.4000000000000004
+Punjabi Bagh West,ESI BASAI DARAPUR,2.499999999999999
+ESI BASAI DARAPUR,Punjabi Bagh West,2.499999999999999
+ESI BASAI DARAPUR,Rajouri Garden,1.1000000000000014
+Maya Puri,Rajouri Garden,1.5
+Maya Puri,Naraina Vihar,1.5
+Naraina Vihar,Maya Puri,1.5
+Naraina Vihar,Delhi Cantt,1.8000000000000007
+Delhi Cantt,Naraina Vihar,1.8000000000000007
+Delhi Cantt,Durgabai Deshmukh South Campus,3.599999999999998
+Durgabai Deshmukh South Campus,Delhi Cantt,3.599999999999998
+Durgabai Deshmukh South Campus,Sir Vishweshwaraiah Moti Bagh,1.3000000000000007
+Sir Vishweshwaraiah Moti Bagh,Durgabai Deshmukh South Campus,1.3000000000000007
+Sir Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,1.6000000000000014
+Bhikaji Cama Place,Sir Vishweshwaraiah Moti Bagh,1.6000000000000014
+Bhikaji Cama Place,Sarojini Nagar,1.1999999999999993
+Sarojini Nagar,Bhikaji Cama Place,1.1999999999999993
+Sarojini Nagar,Dilli Haat INA,1.0999999999999979
+South Extension,Dilli Haat INA,1.2000000000000028
+South Extension,Lajpat Nagar,1.5999999999999979
+Vinobapuri,Lajpat Nagar,1.4000000000000021
+Vinobapuri,Ashram,1.1999999999999993
+Ashram,Vinobapuri,1.1999999999999993
+Ashram,Sarai Kale Khan Hazrat Nizamuddin,1.9000000000000021
+Sarai Kale Khan Hazrat Nizamuddin,Ashram,1.9000000000000021
+Sarai Kale Khan Hazrat Nizamuddin,Mayur Vihar Phase-1,3.5999999999999943
+Mayur Vihar Pocket I,Mayur Vihar Phase-1,0.8000000000000043
+Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,1.2999999999999972
+Trilokpuri Sanjay Lake,Mayur Vihar Pocket I,1.2999999999999972
+Trilokpuri Sanjay Lake,Vinod Nagar East,0.8000000000000043
+Vinod Nagar East,Trilokpuri Sanjay Lake,0.8000000000000043
+Vinod Nagar East,Mandawali - West Vinod Nagar,0.5999999999999943
+Mandawali - West Vinod Nagar,Vinod Nagar East,0.5999999999999943
+Mandawali - West Vinod Nagar,IP Extension,1.0
+IP Extension,Mandawali - West Vinod Nagar,1.0
+IP Extension,Anand Vihar,1.6000000000000014
+Karkarduma Court,Karkar Duma,1.1000000000000014
+Karkarduma Court,Krishna Nagar,0.7000000000000028
+Krishna Nagar,Karkarduma Court,0.7000000000000028
+Krishna Nagar,East Azad Nagar,1.0
+East Azad Nagar,Krishna Nagar,1.0
+East Azad Nagar,Welcome,1.0999999999999943
+Jaffrabad,Welcome,1.2000000000000028
+Jaffrabad,Maujpur,1.1000000000000014
+Maujpur,Jaffrabad,1.1000000000000014
+Maujpur,Gokulpuri,1.2999999999999972
+Gokulpuri,Maujpur,1.2999999999999972
+Gokulpuri,Johri Enclave,1.3000000000000043
+Johri Enclave,Gokulpuri,1.3000000000000043
+Johri Enclave,Shiv Vihar,0.8999999999999986
+Shiv Vihar,Johri Enclave,0.8999999999999986
+Noida Sector 51,Noida Sector 50,1.3
+Noida Sector 50,Noida Sector 51,1.3
+Noida Sector 50,Noida Sector 76,0.9999999999999998
+Noida Sector 76,Noida Sector 50,0.9999999999999998
+Noida Sector 76,Noida Sector 101,1.1
+Noida Sector 101,Noida Sector 76,1.1
+Noida Sector 101,Noida Sector 81,0.8999999999999999
+Noida Sector 81,Noida Sector 101,0.8999999999999999
+Noida Sector 81,NSEZ Noida,2.0
+NSEZ Noida,Noida Sector 81,2.0
+NSEZ Noida,Noida Sector 83,1.1000000000000005
+Noida Sector 83,NSEZ Noida,1.1000000000000005
+Noida Sector 83,Noida Sector 137,1.5
+Noida Sector 137,Noida Sector 83,1.5
+Noida Sector 137,Noida Sector 142,1.5999999999999996
+Noida Sector 142,Noida Sector 137,1.5999999999999996
+Noida Sector 142,Noida Sector 143,1.0
+Noida Sector 143,Noida Sector 142,1.0
+Noida Sector 143,Noida Sector 144,1.4000000000000004
+Noida Sector 144,Noida Sector 143,1.4000000000000004
+Noida Sector 144,Noida Sector 145,1.1999999999999993
+Noida Sector 145,Noida Sector 144,1.1999999999999993
+Noida Sector 145,Noida Sector 146,1.700000000000001
+Noida Sector 146,Noida Sector 145,1.700000000000001
+Noida Sector 146,Noida Sector 147,1.5
+Noida Sector 147,Noida Sector 146,1.5
+Noida Sector 147,Noida Sector 148,1.5999999999999979
+Noida Sector 148,Noida Sector 147,1.5999999999999979
+Noida Sector 148,Knowledge Park II,2.5
+Knowledge Park II,Noida Sector 148,2.5
+Knowledge Park II,Pari Chowk Greater Noida,1.1000000000000014
+Pari Chowk Greater Noida,Knowledge Park II,1.1000000000000014
+Pari Chowk Greater Noida,Alpha 1 Greater Noida,0.8999999999999986
+Alpha 1 Greater Noida,Pari Chowk Greater Noida,0.8999999999999986
+Alpha 1 Greater Noida,Delta 1 Greater Noida,1.5
+Delta 1 Greater Noida,Alpha 1 Greater Noida,1.5
+Delta 1 Greater Noida,GNIDA Office,1.3000000000000007
+GNIDA Office,Delta 1 Greater Noida,1.3000000000000007
+GNIDA Office,Depot Greater Noida,0.9000000000000021
+Depot Greater Noida,GNIDA Office,0.9000000000000021
+Nangli,Dwarka,1.5
+Nangli,Najafgarh,2.4
+Najafgarh,Nangli,2.4
+New Delhi-Airport Express,Shivaji Stadium,1.9
+Shivaji Stadium,New Delhi-Airport Express,1.9
+Shivaji Stadium,Dhaula Kuan,6.4
+Dhaula Kuan,Shivaji Stadium,6.4
+Dhaula Kuan,Delhi Aerocity,6.199999999999999
+Delhi Aerocity,Dhaula Kuan,6.199999999999999
+Delhi Aerocity,IGI Airport,3.3999999999999986
+IGI Airport,Delhi Aerocity,3.3999999999999986
+IGI Airport,Dwarka Sector 21,2.900000000000002
